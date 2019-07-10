@@ -1,0 +1,31 @@
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  padding: 50px 0px;
+}
+
+
+section {
+  margin: 10px 0px;
+}
+
+p {
+  font-size: 30px;
+}
+
+
+.hero > img {
+  max-height: 500px;
+  min-width: 300px;
+  width: 100%;
+}
+
+
+article > img {
+  height: 150px;
+  width: 300px;
+  margin: 20px 0px;
+}
